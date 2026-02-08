@@ -1,6 +1,7 @@
 # tg bot translator
 
 Telegram bot for text translation in private chats, groups, and inline mode.
+You can check it in Telegram @transmebot
 
 ## Features
 
